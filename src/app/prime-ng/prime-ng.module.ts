@@ -7,13 +7,6 @@ import { PanelModule } from 'primeng/panel';
 
 
 @NgModule({
-  imports: [
-    ButtonModule,
-    CardModule,
-    FieldsetModule,
-    MenubarModule,
-    PanelModule
-  ],
   exports: [
     ButtonModule,
     CardModule,
